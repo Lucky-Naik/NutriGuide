@@ -35,21 +35,21 @@ flutter run
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="screenshots/home_page.png" width="220">
   <img src="screenshots/login_page.png" width="220">
   <img src="screenshots/signup_page.png" width="220">
-</p>
-
-<p align="center">
-  <img src="screenshots/ingredients_page.png" width="220">
-  <img src="screenshots/recipe_page.png" width="220">
-  <img src="screenshots/learn_page.png" width="220">
+  <img src="screenshots/home_page.png" width="220">
 </p>
 
 <p align="center">
   <img src="screenshots/track_page.png" width="220">
   <img src="screenshots/progress_page.png" width="220">
+  <img src="screenshots/recipe_page.png" width="220">
+</p>
+
+<p align="center">
+  <img src="screenshots/ingredients_page.png" width="220">
   <img src="screenshots/achievement_page.png" width="220">
+  <img src="screenshots/learn_page.png" width="220">
 </p>
 
 <p align="center">
