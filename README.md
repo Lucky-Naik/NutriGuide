@@ -32,6 +32,38 @@ flutter run
 - Personalized diet plans
 - Health analytics dashboard
 
+## 📸 App Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home_page.jpg)
+
+### 🔐 Login Page
+![Login Page](screenshots/login_page.jpg)
+
+### 📝 Sign Up Page
+![Sign Up Page](screenshots/signup_page.jpg)
+
+### 🥗 Ingredients Page
+![Ingredients Page](screenshots/ingredients_page.jpg)
+
+### 🍽️ Recipe Page
+![Recipe Page](screenshots/recipe_page.jpg)
+
+### 📚 Learn Page
+![Learn Page](screenshots/learn_page.jpg)
+
+### 📈 Track Page
+![Track Page](screenshots/track_page.jpg)
+
+### 📊 Progress Page
+![Progress Page](screenshots/progress_page.jpg)
+
+### 🏆 Achievement Page
+![Achievement Page](screenshots/achievement_page.jpg)
+
+### 👤 Profile Page
+![Profile Page](screenshots/profile_page.jpg)
+
 ## Author
 
 Lucky Naik
