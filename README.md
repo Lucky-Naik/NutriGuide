@@ -34,35 +34,29 @@ flutter run
 
 ## 📸 App Screenshots
 
-### 🏠 Home Page
-![Home Page](screenshots/home_page.png)
+## 📸 App Screenshots
 
-### 🔐 Login Page
-![Login Page](screenshots/login_page.png)
+<p align="center">
+  <img src="screenshots/home_page.png" width="220">
+  <img src="screenshots/login_page.png" width="220">
+  <img src="screenshots/signup_page.png" width="220">
+</p>
 
-### 📝 Sign Up Page
-![Sign Up Page](screenshots/signup_page.png)
+<p align="center">
+  <img src="screenshots/ingredients_page.png" width="220">
+  <img src="screenshots/recipe_page.png" width="220">
+  <img src="screenshots/learn_page.png" width="220">
+</p>
 
-### 🥗 Ingredients Page
-![Ingredients Page](screenshots/ingredients_page.png)
+<p align="center">
+  <img src="screenshots/track_page.png" width="220">
+  <img src="screenshots/progress_page.png" width="220">
+  <img src="screenshots/achievement_page.png" width="220">
+</p>
 
-### 🍽️ Recipe Page
-![Recipe Page](screenshots/recipe_page.png)
-
-### 📚 Learn Page
-![Learn Page](screenshots/learn_page.png)
-
-### 📈 Track Page
-![Track Page](screenshots/track_page.png)
-
-### 📊 Progress Page
-![Progress Page](screenshots/progress_page.png)
-
-### 🏆 Achievement Page
-![Achievement Page](screenshots/achievement_page.png)
-
-### 👤 Profile Page
-![Profile Page](screenshots/profile_page.png)
+<p align="center">
+  <img src="screenshots/profile_page.png" width="220">
+</p>
 
 ## Author
 
