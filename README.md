@@ -1,16 +1,37 @@
-# nutriupdate
+# NutriGuide 🥗
 
-A new Flutter project.
+An AI-powered nutrition guide application that helps users make healthier food choices and track nutritional information.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Personalized nutrition recommendations
+- AI-powered food guidance
+- Meal planning assistance
+- Health-focused insights
+- Smart nutrition suggestions
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- AI Integration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+```bash
+git clone https://github.com/Lucky-Naik/NutriGuide.git
+cd NutriGuide
+flutter pub get
+flutter run
+```
+
+## Future Enhancements
+
+- Food image recognition
+- Calorie tracking
+- Personalized diet plans
+- Health analytics dashboard
+
+## Author
+
+Lucky Naik
