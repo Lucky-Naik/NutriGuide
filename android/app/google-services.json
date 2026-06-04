@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774521717312",
+    "project_id": "nutriguide1-222a8",
+    "storage_bucket": "nutriguide1-222a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774521717312:android:42bbcc7e72a90c7015d5a5",
+        "android_client_info": {
+          "package_name": "com.example.nutriupdate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgc8WjyxSFTMnSJr2JKf8ixMi3NIHYz7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
