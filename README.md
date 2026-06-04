@@ -34,8 +34,6 @@ flutter run
 
 ## 📸 App Screenshots
 
-## 📸 App Screenshots
-
 <p align="center">
   <img src="screenshots/home_page.png" width="220">
   <img src="screenshots/login_page.png" width="220">
