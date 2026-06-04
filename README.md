@@ -35,34 +35,34 @@ flutter run
 ## 📸 App Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home_page.jpg)
+![Home Page](screenshots/home_page.png)
 
 ### 🔐 Login Page
-![Login Page](screenshots/login_page.jpg)
+![Login Page](screenshots/login_page.png)
 
 ### 📝 Sign Up Page
-![Sign Up Page](screenshots/signup_page.jpg)
+![Sign Up Page](screenshots/signup_page.png)
 
 ### 🥗 Ingredients Page
-![Ingredients Page](screenshots/ingredients_page.jpg)
+![Ingredients Page](screenshots/ingredients_page.png)
 
 ### 🍽️ Recipe Page
-![Recipe Page](screenshots/recipe_page.jpg)
+![Recipe Page](screenshots/recipe_page.png)
 
 ### 📚 Learn Page
-![Learn Page](screenshots/learn_page.jpg)
+![Learn Page](screenshots/learn_page.png)
 
 ### 📈 Track Page
-![Track Page](screenshots/track_page.jpg)
+![Track Page](screenshots/track_page.png)
 
 ### 📊 Progress Page
-![Progress Page](screenshots/progress_page.jpg)
+![Progress Page](screenshots/progress_page.png)
 
 ### 🏆 Achievement Page
-![Achievement Page](screenshots/achievement_page.jpg)
+![Achievement Page](screenshots/achievement_page.png)
 
 ### 👤 Profile Page
-![Profile Page](screenshots/profile_page.jpg)
+![Profile Page](screenshots/profile_page.png)
 
 ## Author
 
